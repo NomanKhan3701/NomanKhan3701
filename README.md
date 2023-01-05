@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Khan</h1>
-<h3 align="center">A passionate frontend developer, full stack capable from India</h3>
+<h3 align="center">A full stack developer with primary focus on frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan3701&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan3701" /> </p>
 
