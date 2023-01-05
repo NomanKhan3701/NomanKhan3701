@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan3701&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan3701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomankhan3701" alt="nomankhan3701" /></a> </p>
-
 - 💬 Ask me about **react, scss, animations (Visit my library AnimUI)**
 
 - 📫 How to reach me **noman.khan3701@gmail.com**
