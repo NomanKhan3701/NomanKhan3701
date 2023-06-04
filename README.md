@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhan3701&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhan3701" /> </p>
 
-- 💬 Ask me about **react, nextjs, scss, animations (Visit my library AnimUI (still in development✨))**
+- 💬 Ask me about **react, nextjs, scss, animations ✨**
 
 - 📫 How to reach me **noman.khan3701@gmail.com**
 
