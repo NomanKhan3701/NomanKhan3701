@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **react, nextjs, scss, animations ✨**
 
-- 📫 How to reach me **noman.khan3701@gmail.com, https://nomank.tech/**
+- 📫 How to reach me noman.khan3701@gmail.com, <a href="https://www.linkedin.com/in/noman-khan-0450b5203/">Linkedin</a>
+
+- 😉 Know all about me through my portfolio - <a href="https://nomank.tech/">nomank.tech</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
